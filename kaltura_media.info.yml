@@ -1,0 +1,9 @@
+name: Kaltura Media
+description: Adds Kaltura video sources to Drupal media bundles.
+package: Kaltura
+
+type: module
+core_version_requirement: ^8.8.0 || ^9.0
+
+dependencies:
+  - media
